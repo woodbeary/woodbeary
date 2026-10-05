@@ -9,7 +9,7 @@ AI product engineer. I build agents that work for people: always on, reachable b
 - **[OpenJimmy](https://github.com/woodbeary/openjimmy-public).** An iMessage channel for OpenClaw agents on macOS.
 - **3rd place, OpenAI hackathon (2024).** NVIDIA Inception member with TXT CLAW.
 
-5,936 commits across 137 repositories since June 2023. Most of it is private product and client work; ask and I'll walk you through any of it.
+Building since 2005, when I ran game servers and forums at age 8. 5,936 commits across 137 repositories since 2023, most of it private product and client work; ask and I'll walk you through any of it.
 
 **Stack:** TypeScript, Swift, Python · Next.js, SwiftUI, Expo · Cloudflare Workers, Durable Objects, R2, Sandbox · OpenAI Realtime and Agents SDK, xAI Grok, OpenClaw, MCP · Twilio Voice and SMS
 

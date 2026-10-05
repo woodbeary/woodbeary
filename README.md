@@ -7,6 +7,8 @@ AI product engineer. I build agents that work for people: always on, reachable b
 - **[TXT CLAW → Rotary](https://github.com/woodbeary/rotary)** (Feb–Apr 2026). Always-on agents with their own cloud computer that you reach by text, then a native iPhone app where agents call and text for you. Shipped six months before xAI's Grok Bot.
 - **Caption glasses.** Live captions on smart glasses for my Deaf dad, fully on-device: LC3 audio decoded in C, NVIDIA Parakeet speech recognition, Bluetooth LE.
 - **[OpenJimmy](https://github.com/woodbeary/openjimmy-public).** An iMessage channel for OpenClaw agents on macOS.
+- **[Grok Access](https://github.com/woodbeary/grok-access)** (xAI hackathon, Dec 2025). Flags sarcasm, idioms, and slang in live conversation for Deaf and hard-of-hearing people, on Grok's realtime voice API.
+- **More, with original commit history:** [Grok support widget](https://github.com/woodbeary/grok-support-widget) (xAI interview, Dec 2025) · [OpenHire](https://github.com/woodbeary/openhire-public) (OpenAI AgentKit, Oct 2025) · [Campus Lock](https://github.com/woodbeary/campus-lock) (Screen Time APIs and NFC, May 2026) · [Sign AI](https://github.com/woodbeary/sign-ai) (ASL practice, Dec 2024)
 - **3rd place, OpenAI hackathon (2024).** NVIDIA Inception member with TXT CLAW.
 
 Building since 2005, when I ran game servers and forums at age 8. 5,936 commits across 137 repositories since 2023, most of it private product and client work; ask and I'll walk you through any of it.

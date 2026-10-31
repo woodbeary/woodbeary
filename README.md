@@ -10,7 +10,7 @@ I'm an engineer who builds with agents and sells what I build. I make AI agents 
 - **Caption glasses.** Live captions on smart glasses for my Deaf stepdad, fully on-device: LC3 audio through a bundled C codec, NVIDIA Parakeet speech recognition, Bluetooth LE.
 - **[xAccessibility](https://github.com/woodbeary/grok-access)** (xAI hackathon finalist, Dec 2025). Flags sarcasm, idioms, and slang in live conversation for Deaf and hard-of-hearing people, on Grok's realtime voice API.
 - **[OpenJimmy](https://github.com/woodbeary/openjimmy-public).** An iMessage channel for OpenClaw agents on macOS.
-- **More, with original commit history:** [Grok support widget](https://github.com/woodbeary/grok-support-widget) (Grok, Dec 2025) · [OpenHire](https://github.com/woodbeary/openhire-public) (OpenAI AgentKit, Oct 2025) · [Campus Lock](https://github.com/woodbeary/campus-lock) (Screen Time APIs and NFC, May 2026) · [Sign AI](https://github.com/woodbeary/sign-ai) (ASL practice, Dec 2024)
+- **More, with original commit history:** [Grok support widget](https://github.com/woodbeary/grok-support-widget) (Grok, Dec 2025) · [Campus Lock](https://github.com/woodbeary/campus-lock) (Screen Time APIs and NFC, May 2026) · [Sign AI](https://github.com/woodbeary/sign-ai) (ASL practice, Dec 2024)
 
 **Recognition:** Demo Derby at Cloudflare Connect 2026, invited back. 3rd place at AGI House's OpenAI Realtime API hackathon (Oct 13, 2024), running the Realtime API straight from the browser 12 days after it launched. xAI hackathon finalist in 2024 and 2025. NVIDIA Inception member. $250K in Cloudflare credits, plus grants from xAI, ElevenLabs, HeyGen, and AWS Activate. Mentored by Jonathan Hung, Managing Partner at Entrepreneur Ventures.
 
